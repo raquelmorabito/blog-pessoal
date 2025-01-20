@@ -72,7 +72,7 @@ Adicione as variáveis de ambiente manualmente:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/raquelmorabito/blog-pessoal.git
+   git clone https://github.com/raquelmorabito/blog-pessoal-backend
    cd blog-pessoal
    ```
 
