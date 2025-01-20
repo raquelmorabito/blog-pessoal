@@ -46,7 +46,7 @@ public class SwaggerConfig {
                              "- **JUnit**: Testes unitários e de integração.\n" +
                              "### **Deploy no Render**\n" +
                              "O backend foi implantado na plataforma **Render**, proporcionando um ambiente escalável e confiável para hospedar a API. O deploy automático é realizado diretamente a partir do repositório do GitHub, garantindo que qualquer alteração no código seja refletida rapidamente no ambiente de produção.\n\n" +
-                             "**Acesse o backend em produção:** [Render Backend Deploy](https://render.com)\n\n" +
+                             "**Acesse o backend em produção:** [Render Backend Deploy](https://blog-pessoal-q9ou.onrender.com/swagger-ui/index.html#/)\n\n" +
                              "Explore as possibilidades dessa API e integre facilmente um blog completo à sua aplicação!")
                 .version("v0.0.1")
                 .license(new License()
